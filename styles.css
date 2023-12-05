@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="winter_styles.css">
+    <title>Winter Wonderland Page</title>
+</head>
+<body>
+    <header>
+        <h1>Winter Wonderland</h1>
+        <img src="snowman.png" alt="Snowman" width="100">
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to the Winter Wonderland</h2>
+            <p>Step into a magical world of snow-covered landscapes and twinkling lights. Experience the enchantment of winter with its chilly air and the warmth of holiday festivities.</p>
+        </section>
+
+        <section>
+            <h2>Activities</h2>
+            <ul>
+                <li>Build a snowman</li>
+                <li>Have a snowball fight</li>
+                <li>Sip hot cocoa by the fireplace</li>
+                <li>Take a winter nature walk</li>
+                <!-- Add more activities as needed -->
+            </ul>
+        </section>
+
+        <section>
+            <h2>Traditions</h2>
+            <p>Create new winter traditions, like making snow angels, decorating frosty cookies, and admiring the beauty of icicles hanging from the eaves.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Winter Wonderland</p>
+        <img src="penguin.png" alt="Penguin" width="30">
+    </footer>
+</body>
+</html>
